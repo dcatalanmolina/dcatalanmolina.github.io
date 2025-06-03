@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "👋 Hi there!",
     "section": "",
-    "text": "I am an experienced research leader with a PhD in Human Development and a track record of building research operations from the ground up. I lead a bilingual, remote-first team at Hello Insight, a B2B SaaS company, that turns messy data into clear insights.\n\n\n\nCore Ideas: A free, introductory course to R. I created this course to help labmates in grad school and then I improved it to help others who were struggling to get started in R. Along the code, I wrote a series of Substack posts in English and Spanish (with videos) to help people learn.\nCompañero: I had so much fun building Core Ideas that I kept writing on workflow and communication. For example, I wrote a step-by-step series on how to create paged HTML documents in R.\nRCTID: Just for fun, I’m building a workflow to predict Major League Soccer match results. I’m a fan of the Portland Timbers (my local football team) and I’ve always been curious about sports predictive analytics."
+    "text": "I am an experienced research leader with a PhD in Human Development and a track record of building research operations from the ground up. I lead a bilingual, remote-first team at Hello Insight, a B2B SaaS company, that turns messy data into clear insights.\n\n\n\nCore Ideas: A free, introductory course to R. I created this course to help labmates in grad school and then I improved it to help others who were struggling to get started in R. Along the code, I wrote a series of Substack posts in English and Spanish (with videos) to help people learn.\nCompañero: I had so much fun building Core Ideas that I kept writing on workflow and communication. For example, I wrote a step-by-step series on how to create paged HTML documents in R.\nRCTID: Just for fun, I’m building a workflow to predict Major League Soccer match results. I’m a fan of the Portland Timbers (my local football team) and I’ve always been curious about sports predictive analytics.\n\nDo you want to learn more about my work? Check out my research here."
   },
   {
     "objectID": "index.html#public-projects",
     "href": "index.html#public-projects",
     "title": "👋 Hi there!",
     "section": "",
-    "text": "Core Ideas: A free, introductory course to R. I created this course to help labmates in grad school and then I improved it to help others who were struggling to get started in R. Along the code, I wrote a series of Substack posts in English and Spanish (with videos) to help people learn.\nCompañero: I had so much fun building Core Ideas that I kept writing on workflow and communication. For example, I wrote a step-by-step series on how to create paged HTML documents in R.\nRCTID: Just for fun, I’m building a workflow to predict Major League Soccer match results. I’m a fan of the Portland Timbers (my local football team) and I’ve always been curious about sports predictive analytics."
+    "text": "Core Ideas: A free, introductory course to R. I created this course to help labmates in grad school and then I improved it to help others who were struggling to get started in R. Along the code, I wrote a series of Substack posts in English and Spanish (with videos) to help people learn.\nCompañero: I had so much fun building Core Ideas that I kept writing on workflow and communication. For example, I wrote a step-by-step series on how to create paged HTML documents in R.\nRCTID: Just for fun, I’m building a workflow to predict Major League Soccer match results. I’m a fan of the Portland Timbers (my local football team) and I’ve always been curious about sports predictive analytics.\n\nDo you want to learn more about my work? Check out my research here."
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "I started out as a school counselor in Chile, where I grew up. I was interested in contributing to schools and teachers, especially those in vulnerable neighborhoods who were strapped for resources. My training in Psychology and Education provided a great foundation to start my journey.\nSoon enough, I realized I wanted to learn more to have a larger impact. I came to the US for graduate training, where I learned much about research, data, and evaluation. My main focus was to answer questions around how and under what conditions interventions work.\nAll these experiences built the skills I needed to take a leadership and mentoring role at a B2B SaaS company. They built my people-first skills, as well as my quant and qual skills. Most importantly, they helped me understand how to leverage research to make decisions."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "🧠 Skills",
+    "text": "🧠 Skills\nResearch: Mixed methods, UX research, survey design, RCTs, qualitative coding, and psychometrics.\nData Science Tools: R, R Markdown, Quarto, GitHub, APIs, and MongoDB.\nManagement & Ops: Team leadership, project management, grant writing, OKRs, documentation systems, and stakeholder collaboration.\nCommunication: Report writing, data storytelling, cross-functional communication, and teaching & training."
   }
 ]

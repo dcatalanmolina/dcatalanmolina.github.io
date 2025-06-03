@@ -9,3 +9,12 @@ Soon enough, I realized I wanted to learn more to have a larger impact. I came t
 
 All these experiences built the skills I needed to take a leadership and mentoring role at a B2B SaaS company. They built my people-first skills, as well as my quant and qual skills. Most importantly, they helped me understand how to leverage research to make decisions.
 
+## 🧠 Skills
+
+**Research**: Mixed methods, UX research, survey design, RCTs, qualitative coding, and psychometrics. 
+
+**Data Science Tools**: R, R Markdown, Quarto, GitHub, APIs, and MongoDB.
+
+**Management & Ops**: Team leadership, project management, grant writing, OKRs, documentation systems, and stakeholder collaboration.
+
+**Communication**: Report writing, data storytelling, cross-functional communication, and teaching & training.

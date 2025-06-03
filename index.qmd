@@ -14,3 +14,5 @@ I am an experienced research leader with a PhD in Human Development and a track 
 - [Compañero](https://companero.substack.com): I had so much fun building Core Ideas that I kept writing on workflow and communication. For example, I wrote a step-by-step series on how to create [paged HTML documents in R](https://companero.substack.com/p/how-to-create-a-paged-html-document). 
 
 - [RCTID](https://github.com/dcatalanmolina/rctid): Just for fun, I'm building a workflow to predict Major League Soccer match results. I'm a fan of the Portland Timbers (my local football team) and I've always been curious about sports predictive analytics. 
+
+Do you want to learn more about my work? Check out my research [here](https://osf.io/ev3yn/).
