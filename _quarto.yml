@@ -9,7 +9,7 @@ format:
     - custom.scss
   
 website:
-  title: "Diego Catalan Molina's Portfolio"
+  title: "Diego Catalan Molina"
   navbar:
     left:
       - text: "Home"
