@@ -18,3 +18,11 @@ All these experiences built the skills I needed to take a leadership and mentori
 **Management & Ops**: Team leadership, project management, grant writing, OKRs, documentation systems, and stakeholder collaboration.
 
 **Communication**: Report writing, data storytelling, cross-functional communication, and teaching & training.
+
+## Selected Courses
+
+**Using Git and GitHub with R**, [R for the Rest of Us](https://rfortherestofus.com/courses/git-github).
+
+**Modern Causal Inference: Experiments, Matching, and Beyond** (Dr. Douglas Stanley), 2020 Summer Program in Quantitative Methods of Social Research, Inter-University Consortium for Political and Social Research.
+
+**Bayesian Multilevel Models** (Dr. Ryan Bakker), 2019 Summer Program in Quantitative Methods of Social Research, Inter-University Consortium for Political and Social Research.

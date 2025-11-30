@@ -26,5 +26,12 @@
     "title": "About",
     "section": "🧠 Skills",
     "text": "🧠 Skills\nResearch: Mixed methods, UX research, survey design, RCTs, qualitative coding, and psychometrics.\nData Science Tools: R, R Markdown, Quarto, GitHub, APIs, and MongoDB.\nManagement & Ops: Team leadership, project management, grant writing, OKRs, documentation systems, and stakeholder collaboration.\nCommunication: Report writing, data storytelling, cross-functional communication, and teaching & training."
+  },
+  {
+    "objectID": "about.html#selected-courses",
+    "href": "about.html#selected-courses",
+    "title": "About",
+    "section": "Selected Courses",
+    "text": "Selected Courses\nUsing Git and GitHub with R, R for the Rest of Us.\nModern Causal Inference: Experiments, Matching, and Beyond (Dr. Douglas Stanley), 2020 Summer Program in Quantitative Methods of Social Research, Inter-University Consortium for Political and Social Research.\nBayesian Multilevel Models (Dr. Ryan Bakker), 2019 Summer Program in Quantitative Methods of Social Research, Inter-University Consortium for Political and Social Research."
   }
 ]
