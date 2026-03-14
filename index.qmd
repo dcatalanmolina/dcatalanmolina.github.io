@@ -5,7 +5,7 @@ format: html
 
 # 👋 Hi there!
 
-I am an experienced research leader with a PhD in Human Development and a track record of building research operations from the ground up. I lead a bilingual, remote-first team at [Hello Insight](https://helloinsight.org), a B2B SaaS company, that turns messy data into clear insights.
+I am an experienced research leader with a PhD and a track record of building research operations from the ground up. I lead a bilingual, remote-first team at [Hello Insight](https://helloinsight.org), a B2B SaaS company, that turns messy data into clear insights.
 
 ## 📁 Public Projects
 
@@ -13,6 +13,8 @@ I am an experienced research leader with a PhD in Human Development and a track 
 
 - [Compañero](https://companero.substack.com): I had so much fun building Core Ideas that I kept writing on workflow and communication. For example, I wrote a step-by-step series on how to create [paged HTML documents in R](https://companero.substack.com/p/how-to-create-a-paged-html-document). 
 
-- [RCTID](https://github.com/dcatalanmolina/rctid): Just for fun, I'm building a workflow to predict Major League Soccer match results. I'm a fan of the Portland Timbers (my local football team) and I've always been curious about sports predictive analytics. 
+- [Local AI Agents](https://github.com/dcatalanmolina/uxr-local-agents): Examples of reliable local AI agents using small language models via [Ollama](https://ollama.com/). Check out the experiments I've run to build privacy-first agents to solve real problems for ResearchOps and UX researchers.
+
+- [Insights Vault](https://github.com/dcatalanmolina/insights-vault): Check out an awesome vault for your insights, built on top of Obsidian and a couple of their community plugins. We built this for free, aiming to keep our company insights private and modular as we scale up.
 
 Do you want to learn more about my work? Check out my research [here](https://osf.io/ev3yn/).
